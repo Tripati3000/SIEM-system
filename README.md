@@ -103,12 +103,12 @@ Step 15: Select Area <br/>
 <br />
 Step 16: Click Horizantal axis and select "Timestamp" and for Vertical axis select "Count".
         So here,"Count" for the number of events and "Timestamp" for the time axis to show event counts over time.
-        After that save it.<br/>
+        <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/53309ed9-29b9-4102-be10-9a79d4ede322" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Using KQL to search for specific eventID’s: <br/>
-<img src="https://i.imgur.com/m8RojNQ.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 17: After that Save it 😄 <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/db53d9e0-063d-4857-b06a-f20fa6b42c2e" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Using KQL to search for specific event ID’s coming from specific services: <br/>
