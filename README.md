@@ -79,7 +79,7 @@ Step 11: Use Nmap on Kali VM to generate security events for testing.
 Step 12: Now that we've sent data from Kali VM to the SIEM, we can analyze and search through the logs in the SIEM to understand what's happening in our system.
         Go to Elastic >>> 3 lines >>> Observability >>> logs <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/c1d9feb1-9591-43e8-b5e2-7369670445cb" height="80%" width="80%" alt="SIEM System steps"/>
- <img src="https://i.imgur.com/4rTBi3b.png" height="80%" width="80%" alt="SIEM System steps"/>
+ <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/8da0754e-6e90-4cd5-8568-90ae886593d2" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Install Elasticsearch SSL certificate: <br/>
