@@ -42,8 +42,8 @@ Step 4: Putting agent on Kali VM to collect logs -
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/ffaf0b13-a130-47af-8353-7d694aa11dba" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Install Elastic: <br/>
-<img src="https://i.imgur.com/xeb1h5f.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 5: Click on Elastic Defend <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/f108b2c8-04d7-410d-97f1-4c47e430c9d6" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Reset Elastic password: <br/>
