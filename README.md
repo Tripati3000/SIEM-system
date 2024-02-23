@@ -62,7 +62,7 @@ Step 8: Copy the Link🔗 (make sure your kali VM Running on background)<br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/09621d0f-c941-4054-bd88-74949bf91b8f" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Paste it on Kali VM and Press "Enter": <br/>
+Step 9: Paste it on Kali VM and Press "Enter": <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/14fc0202-7094-4388-8514-5ea46b39b458" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
@@ -70,14 +70,15 @@ Step 10: After Installed Successfully run this command - "sudo systemctl status 
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/3c67d0a7-0033-49bf-a0d4-3d91432ee323" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Step 11:Use Nmap on Kali VM to generate security events for testing.
+Step 11: Use Nmap on Kali VM to generate security events for testing.
        For install Run command - "sudo apt-get install nmap"
         After that run these 2 commands below 👇<br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/4629611d-aa64-4bdc-97ba-b27b7f765265" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Edit Winlogbeat yaml config file: <br/>
-<img src="https://i.imgur.com/o01NEXG.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 12: Now that we've sent data from Kali VM to the SIEM, we can analyze and search through the logs in the SIEM to understand what's happening in our system.
+        Go to Elastic >>> 3 lines >>> Observability >>> logs <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/c1d9feb1-9591-43e8-b5e2-7369670445cb" height="80%" width="80%" alt="SIEM System steps"/>
  <img src="https://i.imgur.com/4rTBi3b.png" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
