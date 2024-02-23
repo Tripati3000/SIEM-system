@@ -58,12 +58,12 @@ Step 7: Click on Add "Elastic agent to your host"<br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/0a4143b6-9bc3-4085-afa4-3abed24fd3cb" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Step 8: Copy the Link🔗<br/>
+Step 8: Copy the Link🔗 (make sure your kali VM Running on background)<br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/09621d0f-c941-4054-bd88-74949bf91b8f" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Log into Kibana on port 5601: <br/>
-<img src="https://i.imgur.com/vLGDfKd.png" height="80%" width="80%" alt="SIEM System steps"/>
+Paste it on Kali VM and Press "Enter": <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/14fc0202-7094-4388-8514-5ea46b39b458" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Edit Execution-Policy settings: <br/>
