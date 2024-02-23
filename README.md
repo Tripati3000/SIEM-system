@@ -119,9 +119,9 @@ Step 18: Create Alert (importamt)✅
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/fb4329e2-a92f-4c41-a6be-1e46dee74d46" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Step 19: Search >>> event.action:"nmap-scan" on Custum query
-        >>> on about rule section give your rule name or description like (nmap detection)
-        >>> Choose how serious the alert is, so you know which ones need immediate attention. Leave all other settings as they are and then click "Continue." <br/>
+Step 19: Search >>> event.action:"nmap-scan" on Custum query.
+        on about rule section give your rule name or description like (nmap detection)
+        and Choose how serious the alert is, so you know which ones need immediate attention. Leave all other settings as they are and then click "Continue." <br/>
 <img src="" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br /> 
