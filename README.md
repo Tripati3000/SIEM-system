@@ -102,7 +102,8 @@ Step 15: Select Area <br/>
 <br />
 <br />
 Step 16: Click Horizantal axis and select "Timestamp" and for Vertical axis select "Count".
-        So here,"Count" for the number of events and "Timestamp" for the time axis to show event counts over time. <br/>
+        So here,"Count" for the number of events and "Timestamp" for the time axis to show event counts over time.
+        After that save it.<br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/53309ed9-29b9-4102-be10-9a79d4ede322" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
