@@ -58,8 +58,8 @@ Step 7: Click on Add "Elastic agent to your host"<br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/0a4143b6-9bc3-4085-afa4-3abed24fd3cb" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Configure Kibana with session token: <br/>
-<img src="https://i.imgur.com/QjsSeiF.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 8: Copy the Link🔗<br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/b5cdd8fe-d6de-4a84-87c7-be2a1557a7c0" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Log into Kibana on port 5601: <br/>
