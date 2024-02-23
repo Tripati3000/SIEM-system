@@ -39,7 +39,7 @@ if you face any difficulty then search on youtube "how to setup kali vm on Virtu
 <br />
 Step 4: Putting agent on Kali VM to collect logs - 
         Go to elastic , Click on 3 lines , Click down "Add Integrations"<br/>
-<img src="https://i.imgur.com/rw9b5xn.png" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/ffaf0b13-a130-47af-8353-7d694aa11dba" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Install Elastic: <br/>
