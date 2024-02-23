@@ -24,7 +24,7 @@ You'll create a home lab using Elastic's web portal and a Kali Linux VM to learn
 
 <p align="center">
 Step 1: Create an elastic account  <br/>
-<img src="https://i.imgur.com/YTMkRzT.png" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/e9cb4fff-abba-4853-a8a6-ff5abf29f099" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Enable Success and Failure Auditing: <br/>
