@@ -70,8 +70,10 @@ Step 10: After Installed Successfully run this command - "sudo systemctl status 
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/3c67d0a7-0033-49bf-a0d4-3d91432ee323" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Install Winlogbeat: <br/>
-<img src="https://i.imgur.com/d8d0gy1.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 11:Use Nmap on Kali VM to generate security events for testing.
+       For install Run command - "sudo apt-get install nmap"
+        After that run these 2 commands below 👇<br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/4629611d-aa64-4bdc-97ba-b27b7f765265" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Edit Winlogbeat yaml config file: <br/>
