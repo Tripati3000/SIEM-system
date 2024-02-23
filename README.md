@@ -111,12 +111,18 @@ Step 17: After that Save it 😄 <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/db53d9e0-063d-4857-b06a-f20fa6b42c2e" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Step 18: Create Alert (importamt)✅ <br/>
-<img src="https://i.imgur.com/SkvloZZ.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 18: Create Alert (importamt)✅ 
+        >>> Go to Alerts
+        >>> Click 'Manage rules' at top right corner.
+        >>> Click 'Create new rules'
+        >>> On 'define rule' section click 'Custum query'<br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/fb4329e2-a92f-4c41-a6be-1e46dee74d46" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Creating Visualization Libraries using Kibana: <br/>
-<img src="https://i.imgur.com/hpR6OH1.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 19: Search >>> event.action:"nmap-scan" on Custum query
+        >>> on about rule section give your rule name or description like (nmap detection)
+        >>> Choose how serious the alert is, so you know which ones need immediate attention. Leave all other settings as they are and then click "Continue." <br/>
+<img src="" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br /> 
 </p>
