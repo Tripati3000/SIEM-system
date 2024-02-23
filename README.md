@@ -93,7 +93,7 @@ Step 13: >> Enter search query in the bar.
 <br />
 Step 14: Use visualizations and dashboards to analyze logs for patterns or anomalies. For instance, create a dashboard showing security event counts over time. 
         Go to elastic >> 3 lines >> Analytic >> dashboard >> create visualization 👍<br/>
-<img src="https://i.imgur.com/xrnFRMp.png" height="80%" width="80%" alt="SIEM System steps"/> 
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/2e75384a-2f40-433b-8995-13ded5f45b9b" height="80%" width="80%" alt="SIEM System steps"/> 
   <img src="https://i.imgur.com/xrnFRMp.png" height="80%" width="80%" alt="SIEM System steps"/>
      <img src="https://i.imgur.com/xrnFRMp.png" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
