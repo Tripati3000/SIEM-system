@@ -97,8 +97,8 @@ Step 14: Use visualizations and dashboards to analyze logs for patterns or anoma
   <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/bb43e3ad-dd3d-4edc-bfe2-d6334ca005d2" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Start Winlogbeat service: <br/>
-<img src="https://i.imgur.com/x4KbjO0.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 15: Select Area <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/bd46444b-86d7-4876-a898-4007bee0df7f" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Final Product: <br/>
