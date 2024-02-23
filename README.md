@@ -2,22 +2,23 @@
 
 
 <h2>Description</h2>
-This task involves setting up a Windows system to incorporate improved logging for user login/logout events, user process launches, and network activity. We will establish a SIEM solution using an Elasticsearch stack, enabling the ingestion, visualization, and querying of log data sources.
+You'll create a home lab using Elastic's web portal and a Kali Linux VM to learn Elastic SIEM. Generate security events on Kali, forward data to SIEM, and analyze logs for insights.
 <br />
 
 
 <h2>Tools</h2>
 
 - <b>Elastic Search</b>
-- <b>Elastic Kibana </b>
-- <b>Winlogbeat</b>
-- <b>PowerShell</b>
-- <b>KQL</b>
-- <b>Sysmon</b>
+- <b>Elastic Defender </b>
+- <b>Kali linux VM</b>
+- <b>Virtual machine or VMware</b>
 
-<h2>Environments Used </h2>
+<h2>Overview of tasks</h2>
 
-- <b>Windows 10</b> (22H2)
+- <b>Setup: You'll create a home lab environment using Elastic's web portal and a virtual machine (VM) running Kali Linux.
+- Generating Security Events: On your Kali Linux VM, you'll simulate security events. This means creating situations that mimic real-world security threats, like attempted breaches or suspicious activities.
+- Forwarding Data: You'll set up an agent on the Kali Linux VM to send the generated security event data to the Elastic SIEM. This is like installing a messenger to send the information securely to the SIEM platform.
+- Query and Analysis: Once the data is in the SIEM, you'll use the Elastic web portal to query and analyze the logs. This involves asking specific questions about the data, like "show me all failed login attempts," and getting insights to understand potential security issues or patterns. <b>
 
 <h2>Program walk-through:</h2>
 
