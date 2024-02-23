@@ -37,7 +37,8 @@ if you face any difficulty then search on youtube "how to setup kali vm on Virtu
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/0737987f-fba7-4d55-aa34-5ae594b73e3f" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Enable Sysmon and import configuration file: <br/>
+Step 4: Putting agent on Kali VM to collect logs - 
+        Go to elastic , Click on 3 lines , Click down "Add Integrations"<br/>
 <img src="https://i.imgur.com/rw9b5xn.png" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
