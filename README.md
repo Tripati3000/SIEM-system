@@ -31,8 +31,8 @@ Step 2: Create Deployment <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/22f77919-6adf-4f4b-a343-f22c6c993729" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Enable Windows Firewall logging: <br/>
-<img src="https://imgur.com/CWzrhND.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 3: After creating deployment download Kali VM - https://www.kali.org/get-kali/#kali-platforms <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/0737987f-fba7-4d55-aa34-5ae594b73e3f" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Enable Sysmon and import configuration file: <br/>
