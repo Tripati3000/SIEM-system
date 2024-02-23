@@ -31,7 +31,9 @@ Step 2: Create Deployment <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/22f77919-6adf-4f4b-a343-f22c6c993729" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Step 3: After creating deployment download Kali VM - https://www.kali.org/get-kali/#kali-platforms <br/>
+Step 3: After creating deployment download Kali VM - https://www.kali.org/get-kali/#kali-platforms
+Add kali files on Virtual machine and the user name and password is kali. 
+if you face any difficulty then search on youtube "how to setup kali vm on Virtual box"<br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/0737987f-fba7-4d55-aa34-5ae594b73e3f" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
