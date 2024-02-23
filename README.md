@@ -50,8 +50,8 @@ Step 6: Click on Add <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/e72d5ee8-fbba-4059-b6f9-9bc1cdb91d28" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Log into Elasticsearch: <br/>
-<img src="https://i.imgur.com/9SnYdcr.png" height="80%" width="80%" alt="SIEM System steps"/>
+Configure whatever name you want to add then "save and continue": <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/458890a1-0234-41f0-9a0d-6a3922780406" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Launch Kibana: <br/>
