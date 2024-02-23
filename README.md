@@ -82,8 +82,13 @@ Step 12: Now that we've sent data from Kali VM to the SIEM, we can analyze and s
  <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/8da0754e-6e90-4cd5-8568-90ae886593d2" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Install Elasticsearch SSL certificate: <br/>
-<img src="https://i.imgur.com/pXiMoXc.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 13: >> Enter search query in the bar.
+         >> Click "Search".
+         >> Results show below.
+         >> Click dots for more details.
+         Analyzing events helps understand security incidents.
+ <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/af216f55-315b-4b6c-9642-19d45ad7f78a" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Launch Winlogbeat executable: <br/>
