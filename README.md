@@ -46,8 +46,8 @@ Step 5: Click on Elastic Defend <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/f108b2c8-04d7-410d-97f1-4c47e430c9d6" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Reset Elastic password: <br/>
-<img src="https://i.imgur.com/BwbA8AT.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 6: Click on Add <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/e72d5ee8-fbba-4059-b6f9-9bc1cdb91d28" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Log into Elasticsearch: <br/>
