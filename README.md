@@ -111,7 +111,7 @@ Step 17: After that Save it 😄 <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/db53d9e0-063d-4857-b06a-f20fa6b42c2e" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Using KQL to search for specific event ID’s coming from specific services: <br/>
+Step 18: Create Alert (importamt)✅ <br/>
 <img src="https://i.imgur.com/SkvloZZ.png" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
