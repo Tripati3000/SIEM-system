@@ -23,7 +23,7 @@ You'll create a home lab using Elastic's web portal and a Kali Linux VM to learn
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Enable Local Security Policy: (only required on home versions) <br/>
+Step 1: Create an elastic account  <br/>
 <img src="https://i.imgur.com/YTMkRzT.png" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
