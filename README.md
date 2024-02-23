@@ -66,8 +66,8 @@ Paste it on Kali VM and Press "Enter": <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/14fc0202-7094-4388-8514-5ea46b39b458" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Edit Execution-Policy settings: <br/>
-<img src="https://i.imgur.com/Qn7rcQv.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 10: After Installed Successfully run this command - "sudo systemctl status elastic-agent.service" <br/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/3c67d0a7-0033-49bf-a0d4-3d91432ee323" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Install Winlogbeat: <br/>
