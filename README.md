@@ -91,8 +91,11 @@ Step 13: >> Enter search query in the bar.
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/af216f55-315b-4b6c-9642-19d45ad7f78a" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
-Launch Winlogbeat executable: <br/>
-<img src="https://i.imgur.com/xrnFRMp.png" height="80%" width="80%" alt="SIEM System steps"/>
+Step 14: Use visualizations and dashboards to analyze logs for patterns or anomalies. For instance, create a dashboard showing security event counts over time. 
+        Go to elastic >> 3 lines >> Analytic >> dashboard >> create visualization 👍<br/>
+<img src="https://i.imgur.com/xrnFRMp.png" height="80%" width="80%" alt="SIEM System steps"/> 
+  <img src="https://i.imgur.com/xrnFRMp.png" height="80%" width="80%" alt="SIEM System steps"/>
+     <img src="https://i.imgur.com/xrnFRMp.png" height="80%" width="80%" alt="SIEM System steps"/>
 <br />
 <br />
 Start Winlogbeat service: <br/>
