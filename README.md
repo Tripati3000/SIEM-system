@@ -123,10 +123,17 @@ Step 19: Search >>> event.action:"nmap-scan" on Custum query.
         on about rule section give your rule name or description like (nmap detection)
         and Choose how serious the alert is, so you know which ones need immediate attention. Leave all other settings as they are and then click "Continue." <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/10a5df3d-773a-4843-a1a0-9028797fb364" height="80%" width="80%" alt="SIEM System steps"/>
-        <img src=" " height="80%" width="80%" alt="SIEM System steps"/>
-<br />
+        <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/deaba781-a085-4f12-8803-4122f65a85ab" height="80%" width="80%" alt="SIEM System steps"/>
+<br /> Step 20:
+1. After setting up Custum query Go to the "Actions" section.
+2. Choose what action you want to happen when the rule activates: send an email notification, create a Slack message, or trigger a custom webhook.
+3. Click on the "Create and enable rule" button to set up the alert.
+4. Once the alert is created, it will monitor your logs for Nmap scan events.
+5. If an Nmap scan event is detected, the alert will be triggered, and the action you selected will be executed.
+6. To manage your alerts, go to the "Alerts" section under "Security."
 <br /> 
-</p>
+</p> Conclusion:
+We built a home lab using Elastic SIEM and a Kali VM. We connected the Kali VM to the SIEM using Elastic Beats agent to send data. Then, we created security events on the Kali VM using Nmap. We checked and studied these logs in the SIEM using the Elastic web interface. Additionally, we made a dashboard to display security events visually. Finally, we set up an alert to catch security events as they happen.
 
 <!--
  ```diff
