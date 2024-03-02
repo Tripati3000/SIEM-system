@@ -1,26 +1,26 @@
-<h1>Bulid a SIEM system using Elasticsearch</h1>
+# Building a SIEM system using Elasticsearch
 
 
-<h2>Description</h2>
+# Description
 You'll create a home lab using Elastic's web portal and a Kali Linux VM to learn Elastic SIEM. Generate security events on Kali, forward data to SIEM, and analyze logs for insights.
 <br />
 
 
-<h2>Tools</h2>
+# Tools
 
 - <b>Elastic Search</b>
 - <b>Elastic Defender </b>
 - <b>Kali linux VM</b>
 - <b>Virtual machine or VMware</b>
 
-<h2>Overview of tasks</h2>
+# Overview of tasks
 
 - <b>Setup: You'll create a home lab environment using Elastic's web portal and a virtual machine (VM) running Kali Linux.
 - Generating Security Events: On your Kali Linux VM, you'll simulate security events. This means creating situations that mimic real-world security threats, like attempted breaches or suspicious activities.
 - Forwarding Data: You'll set up an agent on the Kali Linux VM to send the generated security event data to the Elastic SIEM. This is like installing a messenger to send the information securely to the SIEM platform.
 - Query and Analysis: Once the data is in the SIEM, you'll use the Elastic web portal to query and analyze the logs. This involves asking specific questions about the data, like "show me all failed login attempts," and getting insights to understand potential security issues or patterns. <b>
 
-<h2>Program walk-through:</h2>
+# walkthrough:
 
 <p align="center">
 Step 1: Create an elastic account for free - https://cloud.elastic.co/registration  <br/>
@@ -124,15 +124,24 @@ Step 19: Search >>> event.action:"nmap-scan" on Custum query.
         and Choose how serious the alert is, so you know which ones need immediate attention. Leave all other settings as they are and then click "Continue." <br/>
 <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/10a5df3d-773a-4843-a1a0-9028797fb364" height="80%" width="80%" alt="SIEM System steps"/>
         <img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/deaba781-a085-4f12-8803-4122f65a85ab" height="80%" width="80%" alt="SIEM System steps"/>
-<br /> Step 20:
+        
+Step 20:
+        
 1. After setting up Custum query Go to the "Actions" section.
+        
 2. Choose what action you want to happen when the rule activates: send an email notification, create a Slack message, or trigger a custom webhook.
+
 3. Click on the "Create and enable rule" button to set up the alert.
-4. Once the alert is created, it will monitor your logs for Nmap scan events.
-5. If an Nmap scan event is detected, the alert will be triggered, and the action you selected will be executed.
-6. To manage your alerts, go to the "Alerts" section under "Security."
-<br /> 
-</p> Conclusion:
+ 
+5. Once the alert is created, it will monitor your logs for Nmap scan events.
+
+6. If an Nmap scan event is detected, the alert will be triggered, and the action you selected will be executed.
+ 
+9. To manage your alerts, go to the "Alerts" section under "Security."
+
+        
+# Conclusion 👍
+        
 We built a home lab using Elastic SIEM and a Kali VM. We connected the Kali VM to the SIEM using Elastic Beats agent to send data. Then, we created security events on the Kali VM using Nmap. We checked and studied these logs in the SIEM using the Elastic web interface. Additionally, we made a dashboard to display security events visually. Finally, we set up an alert to catch security events as they happen.
 
 <!--
