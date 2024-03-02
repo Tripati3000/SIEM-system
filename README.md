@@ -1,8 +1,11 @@
-# Building a SIEM system using Elasticsearch
+# Building a SIEM system using Elasticsearch 🛡️💻
 
-<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/e9cb4fff-abba-4853-a8a6-ff5abf29f099" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/SIEM-system/assets/160244601/97d1f0f9-84cd-41e6-939a-419b7e8ddfa8" height="80%" width="80%" alt="SIEM System steps"/>
 
 
+
+# What is a SIEM ?🤔
+SIEM stands for Security Information and Event Management. It's like a digital security guard for computer systems. It collects and analyzes data from various sources like logs and sensors to detect and respond to security threats and incidents in real-time. Think of it as a tool that helps organizations monitor, detect, and investigate potential security breaches or unusual activities within their networks.
 
 # Description
 You'll create a home lab using Elastic's web portal and a Kali Linux VM to learn Elastic SIEM. Generate security events on Kali, forward data to SIEM, and analyze logs for insights.
